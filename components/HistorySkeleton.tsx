@@ -1,5 +1,3 @@
-import React from 'react';
-
 export const HistorySkeleton = () => {
   return (
     <div className="mt-16 w-full">
